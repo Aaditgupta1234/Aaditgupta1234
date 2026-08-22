@@ -51,9 +51,11 @@ Backend Developer • AI Systems Enthusiast • BE CSE Student
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aaditgupta1234&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditgupta1234&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aaditgupta1234&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aaditgupta1234&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
