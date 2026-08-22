@@ -77,8 +77,9 @@ Backend Developer • AI Systems Enthusiast • BE CSE Student
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aaditgupta1234/Aaditgupta1234/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Aaditgupta1234/Aaditgupta1234/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
+
 
 ---
 
