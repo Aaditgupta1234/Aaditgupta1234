@@ -30,10 +30,14 @@ Backend Developer • AI Systems Enthusiast • BE CSE Student
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aadit-gupta-028385327/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="65" alt="LinkedIn"/>
   </a>
+
   <a href="https://leetcode.com/u/AaditGupta_1234/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png"
+         height="50"
+         alt="LeetCode"
+         style="vertical-align: middle; margin-left: 20px;" />
   </a>
 </p>
 
