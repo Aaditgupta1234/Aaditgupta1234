@@ -28,15 +28,18 @@ Backend Developer • AI Systems Enthusiast • BE CSE Student
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aadit-gupta-028385327/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  
-  <a href="https://leetcode.com/u/AaditGupta_1234/">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="48" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aadit-gupta-028385327/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://leetcode.com/u/AaditGupta_1234/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+</div>
+
 
 ---
 
@@ -74,7 +77,6 @@ Backend Developer • AI Systems Enthusiast • BE CSE Student
 
 <hr>
 
----
 
 ## ⭐ Featured Projects
 
