@@ -48,9 +48,6 @@ Backend Developer • AI Systems Enthusiast • BE CSE Student
 
 ---
 
-
-<!-- GitHub Stats -->
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -58,9 +55,13 @@ Backend Developer • AI Systems Enthusiast • BE CSE Student
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditgupta1234&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aaditgupta1234&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aaditgupta1234&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditgupta1234&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 📈 Contribution Graph
