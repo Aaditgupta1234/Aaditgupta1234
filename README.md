@@ -60,8 +60,11 @@ Backend Developer • AI Systems Enthusiast • BE CSE Student
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditgupta1234&theme=tokyonight&hide_border=true" />
+  <img height="180em"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditgupta1234&theme=tokyonight&hide_border=true" />
 </p>
+
+
 ---
 
 ## 📈 Contribution Graph
