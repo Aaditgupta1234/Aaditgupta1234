@@ -18,10 +18,6 @@ Backend Developer • AI Systems Enthusiast • BE CSE Student
 
 📚 Creator of **AVELIS** — Production-Grade Digital Library Platform
 
-🌱 Currently learning FastAPI, PostgreSQL, System Design & DSA
-
-🎯 Goal: Backend Engineer / Software Developer
-
 ⚡ Passionate about AI Systems, Analytics, and Production-Grade Software
 
 ---
@@ -78,7 +74,6 @@ Backend Developer • AI Systems Enthusiast • BE CSE Student
 <hr>
 
 
----
 
 <div align="center">
 
