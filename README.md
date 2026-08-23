@@ -78,53 +78,6 @@ Backend Developer • AI Systems Enthusiast • BE CSE Student
 <hr>
 
 
-## ⭐ Featured Projects
-
-### 🚀 DecisionOS
-
-Explainable AI Business Diagnosis Platform that:
-
-- Analyzes business datasets
-- Detects performance issues
-- Identifies root causes
-- Generates recommendations
-- Produces executive intelligence reports
-
-**Tech:** FastAPI • Python • PostgreSQL • SQLAlchemy • React • TypeScript • AI
-
-🔗 Repository:
-https://github.com/Aaditgupta1234/DecisionOS
-
----
-
-### 📚 AVELIS
-
-Production-Grade Digital Library Platform featuring:
-
-- JWT Authentication
-- RBAC Authorization
-- PostgreSQL Database
-- Prisma ORM
-- Supabase Storage
-- Book Loans & Reservations
-- Reviews & Ratings
-- Admin Management
-
-**Tech:** React • Node.js • PostgreSQL • Prisma • Supabase
-
-🔗 Repository:
-https://github.com/Aaditgupta1234/AVELIS
-
----
-
-## 🎯 Current Focus
-
-- Data Structures & Algorithms (Java)
-- FastAPI Backend Development
-- PostgreSQL & Database Design
-- AI Systems Engineering
-- System Design Fundamentals
-
 ---
 
 <div align="center">
