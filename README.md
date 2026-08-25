@@ -74,9 +74,3 @@ Backend Developer • AI Systems Enthusiast • BE CSE Student
 <hr>
 
 
-
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-
-</div>
