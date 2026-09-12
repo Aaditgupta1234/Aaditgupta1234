@@ -65,12 +65,5 @@ Backend Developer • AI Systems Enthusiast • BE CSE Student
 
 <hr>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditgupta1234&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<hr>
 
 
